@@ -1,3 +1,2 @@
-This text is writtn from VS Code 
-Snowin Cafasso 
-this is the edited version of the test file
+This is the final test for adding the file into the git hub
+by snowin cafasso
